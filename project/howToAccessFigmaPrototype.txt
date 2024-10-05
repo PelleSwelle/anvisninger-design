@@ -1,0 +1,5 @@
+
+
+Link to prototype on figma:
+https://www.figma.com/file/sEtZKNw5dctTdKXxdDrMCl/Design-System?type=design&node-id=500%3A1463&t=B5QLeeMkhifO6lg8-1
+Press the play icon at the top right corner to run the prototype

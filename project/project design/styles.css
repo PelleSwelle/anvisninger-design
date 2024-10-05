@@ -1,0 +1,26 @@
+#color-card {
+    height: 200px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    border: solid black 1px;
+}
+
+.content {
+    border: solid 1px red;
+    display: flex;
+    flex-direction: row;
+    height: 70%;
+}
+
+.color-codes {
+    display: flex;
+    flex-direction: column;
+}
+
+.color-circle {
+    height: 100%;
+    width: 8rem;
+    background: red;
+    border-radius: 50%;
+}
